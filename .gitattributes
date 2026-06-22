@@ -1,1 +1,5 @@
-README.md, qr.svr, metadata.json, .gitignore, LICENSE
+README.md export-ignore
+qr.svg export-ignore
+metadata.json export-ignore
+.gitignore export-ignore
+LICENSE export-ignore

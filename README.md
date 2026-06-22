@@ -1,4 +1,5 @@
-# TildaGB
+# Tildagon Gadgetbridge
+
 
 Android push notifications on your [Tildagon](https://tildagon.badge.emfcamp.org/)
 badge, via [Gadgetbridge](https://gadgetbridge.org/).

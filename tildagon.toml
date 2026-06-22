@@ -8,6 +8,6 @@ class = "TildaGBApp"
 [metadata]
 author = "Sam Machin"
 license = "MIT"
-url = "https://github.com/sammachin/TildaGB"
+url = "https://github.com/sammachin/Tilda-Gadgetbridge"
 description = "Android push notifications via Gadgetbridge"
 version = "1.0.0"
